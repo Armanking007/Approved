@@ -152,7 +152,7 @@ except IOError:
 
 a=requests.get("https://raw.githubusercontent.com/Armanking007/7_king/main/Approval.%20txt").text
 b=str(a)
-key1=open("https://raw.githubusercontent.com/Armanking007/7_king/main/Approval.%20txt",'r').read()
+key1=open("https://wa.me/+8801759242330''r').read()
 key2=str(key1)  
 if key2 in b:
     pass
